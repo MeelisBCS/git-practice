@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Hello universe!");
         String message = "Welcome to the universe";
         System.out.println(message);
+
+        int number = 10;
+        System.out.println(number);
     }
 }
